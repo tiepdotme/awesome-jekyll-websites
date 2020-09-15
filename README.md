@@ -813,25 +813,4 @@ Contributions are welcome!
 * [Paul's Portfolio](https://lenpaul.github.io/) ([source](https://github.com/LeNPaul/LeNPaul.github.io)) - My personal portfolio built from the ground up, powered by Jekyll
 * [Jekyll Skeleton](https://marcanuy.github.io/jekyll-skeleton/) ([source](https://github.com/marcanuy/jekyll-skeleton)) - A skeleton of a multilingual site (based in data files) to start new websites with Bootstrap 4 included.
 * [Fowlie's blog](https://fowlie.github.io) ([source](https://github.com/fowlie/fowlie.github.io)) - My personal blog about programming and music.
-* [Food Oasis LA](https://foodoasis.la/) ([source](https://github.com/foodoasisla/foodoasis.la)) - Food Oasis LA (FOLA) shows you the best places to find healthy food in Los Angeles. It's built by volunteers at Hack for LA, the official Los Angeles chapter of Code for America.
-* [Prashant's personal blog/timeline](https://imprashant.com/) ([source](https://github.com/x0v/x0v.github.io)) - a Machine Learning Engineer | Backend Developer. The site includes easy to deploy cool features like skills set presentation and search feature. Feel free to fork and deploy your own jekyll powered website in no time.
-* [Andy Davies](http://andydavi.es/) ([source](https://github.com/andavies/andavies.github.io/)) - Personal blog/portfolio - freelance web developer.
-* [Andor Polgar's photolog](http://andor.cool/) ([source](https://github.com/andormade/andor.cool)) - A personal photoblog.
-* [Official website of Lightrains Tech](https://lightrains.com "Blockchain Consulting Company") ([source](https://github.com/lightrainstech/website.source)) - Blockchain Consulting Company 
-* [Irfan Fadilah's Blog](http://blog.irfanfadilah.com/) ([source](https://github.com/irfanfadilah/irfanfadilah.github.io)) - Irfan Fadilah's personal blog about IT related things.
-* [Alireza Aghamohammadi](http://aaghamohammadi.ir) ([source](https://github.com/aaghamohammadi/aaghamohammadi.github.io)) - Personal website about life, food and technology in Persian (Farsi).
-* [Cedro Gropello](http://cedrogropello.com/) ([source](https://github.com/tommaso-negri/cedro-gropello)) - Website of an Italian beauty center
-* [Andrey Glauzer](https://andreyglauzer.com) ([source](https://github.com/andreyglauzer/andreyglauzer.github.io)) - A personal blog
-* [Multiplicidad Digital](http://amireynoso.github.io/multiplicidad) ([source](https://github.com/amireynoso/multiplicidad)) - Ami Reynoso's graduation project about web development (in Spanish). Uses custom responsive theme, integrates Disqus, and custom page types.
-* [Ajit Kumar's Webpage](https://krajit.github.io/) ([Source](https://github.com/krajit/krajit.github.io)) A simple academic webpage based on [hyde](https://github.com/poole/hyde) template.
-* [Theo Kalfas - teolandon](http://teolandon.com/) ([source](https://github.com/teolandon/teolandon.github.io/)) - Personal website/blog.
-* [Ganessh Kumar](https://ganesshkumar.com/) ([source](https://github.com/ganesshkumar/ganesshkumar.github.io/)) - A personal website
-* [Matt Grey](https://www.himatt.com) ([source](https://github.com/MattGreyDesign/himatt.com)) - Personal portfolio and font selling platform for a UX designer
-* [Viacheslav Avsenev Software Developer and Engineer](http://vavstech.com/) ([source](https://github.com/snmslavk/snmslavk.github.io)) - Personal website with portfolio and links to related resources
-* [Hossein Karami](https://hosseinkarami.com/) ([source](https://github.com/HosseinKarami/HosseinKarami.github.io)) - Personal portfolio
-* [Triangle Fraternity at Michigan Technological University](https://trianglefraternitymtu.github.io/) ([source](https://github.com/trianglefraternitymtu/trianglefraternitymtu.github.io)) - Website for a college fraternity.
-* [Milkleaks](http://milkleaks.ru/) ([source](https://github.com/sasha-travkina/blog)) - Personal blog about games, films, books, web and other.
-* [Brandon Skerritt](https://brandonskerritt.github.io/) ([source](https://github.com/brandonskerritt/brandonskerritt.github.io)) - Blog about AI and Maths. Sometimes personal blog posts.
-* [Louis Rassaby](http://rassaby.com/) ([source](https://github.com/lrassaby/lrassaby.github.io)) - Personal blog and portfolio with masonry layout.
-* [tekkie](https://tekkie.flashbit.net/) ([source](https://github.com/ain/tekkie.flashbit.net)) - Technology blog of Ain Tohvri, CTO at Savings United, international network of digital coupon marketplaces.
 
