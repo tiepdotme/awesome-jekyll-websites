@@ -796,9 +796,3 @@ Contributions are welcome!
 * [Blog Muhammad Zaini](http://muhammadzaini.com/blog) ([source](https://github.com/mzaini30/blog)) - Personal Blog about mindset and code (Indonesian language)
 * [Juliano Boesel Mohr](http://www.juliaaano.com/) ([source](https://github.com/juliaaano/juliaaano.github.io)) - A blog about software engineering.
 * [Victor Caldas](http://www.victorcaldas.com/) ([source](https://github.com/vcaldas/vcaldas.github.io)) - Personal and academic website.
-* [Banter bloguje](https://blog.zvestov.cz/) ([source](https://github.com/banterCZ/blog/)) - Personal blog mostly about software engineering (in Czech) 
-* [Adi Fahmi](https://adifahmi.me/) ([source](https://github.com/AdiFahmi/AdiFahmi.github.io)) - Personal Site.
-* [Duc A. Hoang](http://hoanganhduc.github.io/) ([source](https://github.com/hoanganhduc/jekyll-webpage-source)) - Personal and Academic Site.
-* [Webjeda](https://blog.webjeda.com) ([Source](https://github.com/sharu725/blog-v3)) - Jekyll Tutorials.
-* [Adit Deshpande](https://adeshpande3.github.io/) ([Source](https://github.com/adeshpande3/adeshpande3.github.io)) - Machine Learning Blog.
-* [grandprixstats.org](http://www.grandprixstats.org) ([Source](https://github.com/grand-prix-stats/grand-prix-stats.github.io)) - Formula 1® Programmatically Generated Statistics
