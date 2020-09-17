@@ -802,15 +802,3 @@ Contributions are welcome!
 * [Webjeda](https://blog.webjeda.com) ([Source](https://github.com/sharu725/blog-v3)) - Jekyll Tutorials.
 * [Adit Deshpande](https://adeshpande3.github.io/) ([Source](https://github.com/adeshpande3/adeshpande3.github.io)) - Machine Learning Blog.
 * [grandprixstats.org](http://www.grandprixstats.org) ([Source](https://github.com/grand-prix-stats/grand-prix-stats.github.io)) - Formula 1® Programmatically Generated Statistics
-* [Chuck Masterson's Actual Blog](http://www.chuckmasterson.com) ([Source](https://github.com/chuckmasterson/chuckmasterson.github.io)) — Personal blog, with greatly customized CSS and threaded commenting via Staticman.
-* [Aevyz's Project Hub](https://aevyz.github.io) ([source](https://github.com/Aevyz/aevyz.github.io)) - Personal blog focussing on Jekyll coding. 
-* [Diego S.C.](https://diegosc.com) ([source](https://github.com/diegosozua/diegosozua.github.io)) - My personal blog about programming, music, drawing.
-* [The Flow of Language](http://derek.com.ua) ([source](https://github.com/derekkedziora/derekkedziora.github.io)) - My personal blog and a mini CMS for lesson plans 
-* [Niels Oeltjen](http://nielsoeltjen.com/) ([source](https://github.com/Elbone/nielsoeltjen)) — Australian Artist and Digital Maker
-* [飲冰](http://facaiy.github.io/) ([source](https://github.com/facaiy/facaiy.github.io)) - 专注于机器学习的中文博客 (Chinese blog about machine learning)
-* [Bookoid](https://saurabhthorat.github.io/bookoid/) ([source](https://github.com/saurabhthorat/bookoid)) - Android app website
-* [ThemeJekyll](https://themejekyll.github.io/) ([source](https://github.com/ThemeJekyll/themejekyll.github.io)) - Search and find free, open source Jekyll themes.
-* [Paul's Portfolio](https://lenpaul.github.io/) ([source](https://github.com/LeNPaul/LeNPaul.github.io)) - My personal portfolio built from the ground up, powered by Jekyll
-* [Jekyll Skeleton](https://marcanuy.github.io/jekyll-skeleton/) ([source](https://github.com/marcanuy/jekyll-skeleton)) - A skeleton of a multilingual site (based in data files) to start new websites with Bootstrap 4 included.
-* [Fowlie's blog](https://fowlie.github.io) ([source](https://github.com/fowlie/fowlie.github.io)) - My personal blog about programming and music.
-
