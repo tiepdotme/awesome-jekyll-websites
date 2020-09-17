@@ -721,18 +721,3 @@ Contributions are welcome!
 * [Ali Haddadkar](http://haddadkar.me) ([source](https://github.com/alihaddadkar/haddadkar.me)) - Personal Website and Blog.
 * [Bitcoin Manchester](http://www.bitcoinmanchester.org.uk/) ([source](https://github.com/bitcoinmanchester/bitcoinmanchester.github.io)) - Bitcoin / cryptocurrency meetup in Manchester, UK
 * [Jason Hee](http://jasonhee.com) ([source](https://github.com/jasonheecs/jasonheecs.github.io)) - Personal website and portfolio
-* [liungkejin](https://liungkejin.github.io)([source](https://github.com/liungkejin/liungkejin.github.io)) - 一个非常简单的个人博客
-* [Rabid Canary](http://mttmccb.github.io)([source](http://github.com/mttmccb/mttmccb.github.io)) - Full-Stack Web Development Blog
-* [Lookuga](https://lookuga.com) ([source](https://github.com/lookuga/lookuga.github.io)) - Security & Development Blog
-* [Trendara.com](http://trendara.com/) ([source](https://github.com/rowe-morehouse/trendara-public)) — Marketing automation agency website.
-* [jacobroy.quebec](https://jacobroy.quebec) ([source](https://github.com/lejacobroy/lejacobroy.github.io)) - Photography portfolio and transactional store for prints.
-* [William He](http://williammer.github.io) ([source](https://github.com/Williammer/Williammer.github.io)) - TV/Web app developer William He's concise Personal Website.
-* [CircleCI Docs](https://circleci.com/docs/) ([source](https://github.com/circleci/circleci-docs)) - Documentation for CircleCI, continuous integration platform.
-* [Vernando Simbolon](https://vernandosimbolon.com) ([source](https://github.com/Vernando05/vernando05.github.io)) - Personal & portfolio website.
-* [Willy Mayo, Venezuelan Luthier & musician](http://willymayo.com.ve) - Personal & instrument catalog website.
-* [Zsolt Udvari](http://uzsolt.hu) ([source](http://git.uzsolt.hu/jekyll-homepage/)) - Personal homepage with multi-level menu system, gallery, downloadable documents, notes, RSS, etc. Without any JavaScript! Only in hungarian!
-* [Yaoyu Yang](http://yaoyuyang.com) ([source](https://github.com/sunshineyyy/sunshineyyy.github.io)) - Personal homepage and blog with responsive design and customized template from [Clean Blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll).
-* [Yasin Yousif](https://engyasin.github.io) ([source](https://github.com/engyasin/engyasin.github.io))
-* [Robert's Blog](http://www.robertiagar.com) ([source](https://github.com/robertiagar/robertiagar.com)) - Personal blog using the [mediator template](https://github.com/dirkfabisch/mediator)
-* [Jens Willmer](http://jwillmer.de) ([source](https://github.com/jwillmer/jekyllDecent)) - Personal blog
-* [LionNet Maciej Lew](http://lion.net.pl) ([source](https://github.com/maciejlew/maciejlew.github.io)) - Personal blog about software development, especially lan management systems for internet service providers
