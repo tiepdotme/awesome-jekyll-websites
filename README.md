@@ -781,18 +781,3 @@ Contributions are welcome!
 * [Synthetase's World of Nerd](http://syntheta.se) personal blog, source [here](https://github.com/StaphSynth/StaphSynth.github.io). Site implements tagging and DISQUS integration. Also uses Jekyll-sitemap and Jekyll-SEO.
 * [jCanvas](http://projects.calebevans.me/jcanvas/) ([source](https://github.com/caleb531/jcanvas-website)) - The official website of jCanvas, the jQuery canvas library. Site implements collections for documentation, Jekyll-SEO, Jekyll-Sitemap. Theme is completely custom.
 * [Yateendra Sahu](http://yateender.com) ([source](https://yateendra.github.io)) - Personal blog
-* [Is the Holocaust Real? Unfortunately, yes.](http://www.istheholocaustreal.com) - A strike back at Holocaust deniers and hate sites.
-* [Yarn](https://yarnpkg.com/)([source](https://github.com/yarnpkg/website)) - A next generation package management tool for JavaScript developers from Facebook, Exponent, Google, and Tilde.
-* [ShareX](https://getsharex.com) ([source](https://github.com/ShareX/sharex.github.io)) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
-* [Mathifold](http://mathifold.org/) ([source](https://github.com/mathifold/mathifold)) - Mathifold is a project whose goal is to make mathematics accessible to everybody, completely free, based on open collaboration and the best pedagogical tools.
-* [Rafael Comino Matas - Ilustration](http://blog.cominoilustracion.com/) ([source](https://github.com/CominoMatas/CominoMatas.github.io)) - My personal site about illustration. Made with Jekyll Now and bootstrap 4.
-* [gaboratorium notes](http://gaboratorium.com/) ([source](https://github.com/gaboratorium/gaboratorium-notes)) - Scepticism, criticism and lots of JavaScript
-* [technicat](https://technicat.github.io/) ([source](https://github.com/technicat/technicat.github.io)) - Site for Technicat LLC
-* [Tampa Bay Book Group](http://www.tampabaybookgroup.org/) ([source](https://github.com/scottcwilson/ort)) - Site for a book club
-* [Art Bergmann](http://artbergmann.com/) ([source](https://github.com/va7sdf/artbergmann)) - Official website of Art Bergmann, anti-hero-iconoclast of Canadian music for over 40 years.
-* [Gordon Celesta](http://gordon.celesta.me/) ([source](https://github.com/va7sdf/va7sdf.github.io)) - Personal Blog.
-* [Dav Chana - i.dc1.in](https://i.dc1.in/) ([source](https://gitlab.com/davch/dc1-blog/tree/deploy)) - Personal Blog.
-* [LineageOS Wiki](http://wiki.lineageos.org/) ([source](https://github.com/LineageOS/lineage_wiki))
-* [Blog Muhammad Zaini](http://muhammadzaini.com/blog) ([source](https://github.com/mzaini30/blog)) - Personal Blog about mindset and code (Indonesian language)
-* [Juliano Boesel Mohr](http://www.juliaaano.com/) ([source](https://github.com/juliaaano/juliaaano.github.io)) - A blog about software engineering.
-* [Victor Caldas](http://www.victorcaldas.com/) ([source](https://github.com/vcaldas/vcaldas.github.io)) - Personal and academic website.
