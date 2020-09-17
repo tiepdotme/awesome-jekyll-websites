@@ -1,19 +1,9 @@
-# Awesome jekyll websites list
-A curated list of awesome Jekyll websites.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/snmslavk/awesome-jekyll-websites.svg?branch=master)](https://travis-ci.org/snmslavk/awesome-jekyll-websites)
-
-This awesome list is based on jekyll wiki page, but it is built according to awesome list styles and the broken links were removed. Also it contains CI build that is checking the availiability of resources. You can easly add your website here, read the contribtuion guidline.
-
-# Contribution
-
-Contributions are welcome!
-1. Fork this repository
-2. Create the branch with your new resource in the title like "jhon-doe-jekyll-site". If you want to add your jekyll website, please also include the link to the source code.
-3. Create pull request
-4. Make sure that the build is not failed
 
 # The list of jekyll websites
+
+
+
 * [Tom Preston-Werner](http://tom.preston-werner.com/) ([source](http://github.com/mojombo/mojombo.github.io))
 * [überduper](http://danhixon.github.com/) ([source](http://github.com/danhixon/danhixon.github.com))
 * [The Pug Automatic](http://henrik.nyh.se/) ([source](http://github.com/henrik/henrik.nyh.se/) / [Jekyll fork](http://github.com/henrik/jekyll)) – Custom fork with Haml, Sass etc. Single page for tags with per-tag anchors. Single page archive by year/month.
