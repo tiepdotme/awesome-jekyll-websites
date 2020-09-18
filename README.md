@@ -636,27 +636,3 @@
 * [RWD Kent State](http://www.rwdkent.com/) ([Source](https://github.com/KentStateWeb/rwd/tree/gh-pages)) - Class website for Responsive Web Design at Kent State
 * [Christopher Hallahan](http://www.chrishallahan.com/) ([Source](https://github.com/challahan/portfolio/tree/gh-pages)) - Personal portfolio and blog for a web and user experience designer  
 * [Mohanad Salah](http://mohdule.github.io/) ([Source](http://github.com/mohdule/mohdule.github.io)) - Web  Developer "Portfolio / _Blog_" <fully custom theme>.  
-* [Flying Birds Gallery](http://flyingbirdsgallery.github.io/) ([Source](https://github.com/flyingbirdsgallery/flyingbirdsgallery.github.io)) - The portfolio of original art work by the American artist Marcy Schwartz.
-* Jekyll and Material Design Lite ([Source](https://github.com/getmarkus/jekyll-material-design-lite)) - An experiment combining Jekyll and MDL. Implementations of the various layouts in MDL.
-* [Peter Zieske](http://peterzieske.com/) ([source](https://github.com/pdz8/pdz8.github.io)) - Personal blog on topics related to computer science and technology.
-* [Verne in Github](http://einverne.github.io) ([Source](https://github.com/einverne/einverne.github.io)) - Personal blog about development notes with search function and random quote. (中文)
-* [PHP Reboot magazine](http://phpreboot.github.io/) ([Source](https://github.com/phpreboot/phpreboot.github.io)) - PHP Reboot community magazine to collect good blogs/articles/tutorials in PHP community.
-* [Theo Winter](https://theowinter.ch) ([source](https://github.com/aerobless/theowinter.ch)) - Personal blog of a swiss computer science student who's also passionate about photography.
-* [Ng Wei Leen](http://weileen.me) ([source](https://github.com/plen/plen.github.io)) - Personal blog of a Malaysian entrepreneur living in Singapore.
-* [Frank's Blog](http://flinhong.github.io) ([source](https://github.com/flinhong/flinhong.github.io.git)) - Personal blog of a Chinese student studying in Hong Kong. I've updated the blog template, the older one can be found [here](http://linhong.gitcafe.io). (English | 中文)
-* [RoboComp's Official Site](http://robocomp.github.io/website/) ([source](https://github.com/robocomp/website/tree/gh-pages)) - Official Site
-* [Chris Said](http://chris-said.io) ([source](https://github.com/csaid/csaid.github.io)) - Personal blog about tech, stats, and science.
-* [Polyglot](http://untra.github.io/polyglot) ([source](https://github.com/untra/polyglot)) - Jekyll i18n and multi-language support plugin
-* [Seki's note](http://sekika.github.io/) ([source](https://github.com/sekika/sekika.github.io)) - In Japanese. Tags per page are shown with links to pages with the tag. No plugin is used because it is hosted on Github Pages.
-* [Pure's app](https://www.pureapp.in.th/) ([source](https://github.com/pureexe/www.pureapp.in.th)) - Personal blog about tech and science.
-* [Theoretical Astrophysics Group](http://www.rccp.tsukuba.ac.jp/Astro) ([source](https://github.com/TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io)) - Webpage of the Theoretical Astrophysics Group, University of Tsukuba, Japan. Bilingual.
-* [UX Academy](http://uxacademy.in.th/) ([source](https://github.com/uxacademy/uxacademy.github.io)) - Official Site for User Experience Workshop in Thailand
-* [Richard Kraaijenhagen](http://riichard.com/) ([source](https://github.com/riichard/riichard)) - Personal blog about ergonomics, front/backend development and statistics.
-* [rapkin](http://rapkin.com.ua/) ([source](https://github.com/rapkin/rapkin.github.io/)) - Little blog about my little projects.
-* [Joe Buhlig](http://joebuhlig.com) ([source](https://github.com/joebuhlig/joebuhlig_com)) - Personal blog and podcast about productivity and life.
-* [Hassan Zaaferani](http://zaaferani.ir) ([source](https://github.com/zaaferani67/zaaferani67.github.io)) - Persian website on software - وبسایت فارسی من
-* [Sub85](http://sub85.com) ([source](https://github.com/matthewfedak/sub85blog)) - software development blog and hire page for British Software Developer Matthew Fedak
-* [Nonprofit Website Template](https://smartergiving.github.io/free-nonprofit-starter-website/) ([source](https://github.com/smartergiving/free-nonprofit-starter-website)) - Github Pages template to help grassroots nonprofits get online quickly
-* [USC's Center for Applied Network Analysis (CANA)](http://cana.usc.edu) ([source](https://github.com/USCCANA/USCCANA.github.io))
-* [Justin Harringa](http://harringa.com) ([source](https://github.com/justinharringa/harringa.com)) - Justin Harringa's site which could involve software development, travel, or other topics.
-* [Magazine du Webdesign](http://www.magazineduwebdesign.com/) ([source](https://github.com/MagazineduWebdesign/MagazineduWebdesign.github.io)) – Just the best of the interfaces.
