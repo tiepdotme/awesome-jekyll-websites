@@ -615,24 +615,3 @@
 * [ITIN.UA - Lawyer Social Platform](http://itin.com.ua/)([source](https://github.com/itinua/itinua.github.io)) Maybe the most interesting social platform for lawyers in Ukraine
 * [Paul Robert Lloyd](https://paulrobertlloyd.com) ([source](https://github.com/paulrobertlloyd/paulrobertlloyd.com)) - My personal website and portfolio.
 * [Péter Maróti](http://www.marotipeter.com/) ([source](https://github.com/JarJarMP/PersonalSite)) - Personal site and portfolio.
-* [Berkan Dirim](http://dirim.co) ([source](https://github.com/berkandirim/berkandirim.github.io)) - Personal site
-* [Mixed Media Studios](http://www.mixedmediastudios.org/) ([source](https://github.com/mixedmediastudios/mixedmediastudios.github.io)) - Official website for Mixed Media Studios
-* [Section.io](https://www.section.io/) ([source](https://github.com/section-io/docs)) - Section.io Site
-* [Heiswayi Nrird](http://heiswayi.github.io) ([source](https://github.com/heiswayi/heiswayi.github.io)) - Heiswayi Nrird Personal Blog
-* [idiaz.roncero](http://idiazroncero.com)([source](https://github.com/idiazroncero/idiazroncero.source)) - Personal blog on web development, politics and journalism
-* [Ayush Goel](http://ayushgoel.github.io)([Source](https://github.com/ayushgoel/ayushgoel.github.io)) - Personal blog on iOS development, ruby, python and almost everything I come across.
-* [WiseCash SaaS Knowledge Base](https://www.wisecashhq.com/help/what-is-wisecash) ([source](https://github.com/wisecash/wisecash-support), [article "Lessons Learned Building a Git-Based KB for my SaaS Product"](https://www.wisecashhq.com/blog/lessons-learned-creating-a-git-based-knowledge-base-for-my-saas-product)).
-* [Juan on Software](http://juanonsoftware.github.io) ([Source](https://github.com/juanonsoftware/juanonsoftware.github.io)) - Personal blog on software development processes / techniques / news
-* [netlicensing.io](http://netlicensing.io) ([source](https://github.com/Labs64/netlicensing.io)) - Labs64 NetLicensing - Innovative License Management Solution
-* [Shannon Babincsak](http://codeinpink.github.io/) ([source](https://github.com/codeinpink/codeinpink.github.io)) - Personal site, portfolio, and blog.
-* [Christopher Randall Wells](http://christopher-randall-wells.divshot.io/) ([source](https://github.com/ExcaliburZero/christopher-randall-wells.divshot.io)) – Personal website and blog on programming and technology.
-* [Historisches Fechten Leipzig](http://historisches-fechten-leipzig.github.io/) ([source](https://github.com/historisches-fechten-leipzig/historisches-fechten-leipzig.github.io)) - small website/blog of a local [HEMA](https://en.wikipedia.org/wiki/Historical_European_martial_arts) group (German)
-* [Qing's Blog](http://1990q828j.github.io)([source](https://github.com/1990q828j/1990q828j.github.io)) - Personal pithy theme blog.
-* [vim cheat sheet](http://vim.rtorr.com/) ([source](https://github.com/rtorr/vim-cheat-sheet))
-* [Peter Y. Chuang - Novelist](http://novelist.xyz) ([source](https://github.com/peterychuang/peterychuang.github.io)) - The website of Peter Y. Chuang, novelist.
-* [Allan Chang](http://clchangnet.github.io/) ([Source](https://github.com/clchangnet/clchangnet.github.io)) - Learning to be a web application developer blog notes
-* [Sloth's Lab](http://www.slothslab.com/) ([Source](https://github.com/asomarribasd/asomarribasd.github.io)) - Blog and notes about Software Architecture and Development, Programming and Integration
-* [Tyler Cubell](http://www.tylercubell.com/) ([Source](https://github.com/tylercubell/tylercubell.github.io)) - Personal blog about web development.
-* [RWD Kent State](http://www.rwdkent.com/) ([Source](https://github.com/KentStateWeb/rwd/tree/gh-pages)) - Class website for Responsive Web Design at Kent State
-* [Christopher Hallahan](http://www.chrishallahan.com/) ([Source](https://github.com/challahan/portfolio/tree/gh-pages)) - Personal portfolio and blog for a web and user experience designer  
-* [Mohanad Salah](http://mohdule.github.io/) ([Source](http://github.com/mohdule/mohdule.github.io)) - Web  Developer "Portfolio / _Blog_" <fully custom theme>.  
