@@ -660,19 +660,3 @@
 * [USC's Center for Applied Network Analysis (CANA)](http://cana.usc.edu) ([source](https://github.com/USCCANA/USCCANA.github.io))
 * [Justin Harringa](http://harringa.com) ([source](https://github.com/justinharringa/harringa.com)) - Justin Harringa's site which could involve software development, travel, or other topics.
 * [Magazine du Webdesign](http://www.magazineduwebdesign.com/) ([source](https://github.com/MagazineduWebdesign/MagazineduWebdesign.github.io)) – Just the best of the interfaces.
-* [enilu's blog](http://enilu.github.io/) ([source](https://github.com/enilu/enilu.github.io)) –(Chinese, 中文).
-* [scienceofsoul.net](http://scienceofsoul.net) ([source](https://github.com/scienceofsoul/scienceofsoul.github.io)) - A blog - testing hypotheses using/on body and mind.
-* [opengl-tutorial.org/](http://www.opengl-tutorial.org/) ([source](https://github.com/opengl-tutorials/ogl/tree/gh-pages)) - Website - Free tutorials for modern Opengl (3.3 and later) in C/C++.
-* [Alex Carpenter](http://alexcarpenter.me/) ([source](https://github.com/alexcarpenter/alexcarpenter.github.io))
-* [Leopolis Research & Design](http://leopolisrd.pl/) ([source](https://github.com/kooperatywa/leopolis))
-* [Fedora Developer Portal](https://developer.fedoraproject.org/) ([source](https://github.com/developer-portal/website))
-* [Matthew Graybosch (author's website/personal blog)](http://matthewgraybosch.com) ([source](https://github.com/demifiend/matthewgraybosch))
-* [30 Days of Web Dev: Liz Krane's April 2015 challenge](http://learningnerd.com/30DaysOfWebDev) ([source](https://github.com/LearningNerd/30DaysOfWebDev))
-* [Ruwhan's Blog](http://ruwhan.github.io) ([source](https://github.com/ruwhan/ruwhan.github.io)) Web development technical blog, and tutorials.
-* [Loi's Studio](http://loiwu.github.io) ([source](https://github.com/loiwu/loiwu.github.io)) A personal blog, including the articles about iOS programming
-* [J Mikka Luster](http://jml.is) ([source](https://github.com/jluster/jml.is)) Personal blog, used to chronicle long distance hikes.
-* [*Simplicity* – Free Jekyll Theme](http://phlow.github.io/simplicity/) ([source](https://github.com/Phlow/simplicity)) A Jekyll Theme for Minimalists focused on essentials avoiding unnecessary clutter.
-* [jordifierro's blog](http://jordifierro.com) ([source](https://github.com/jordifierro/jordifierro.github.io)) - Personal blog about algorithmics, software and projects development.
-* [Valerio Pierbattista's Portfolio Website](http://valeriopierbattista.com) ([source](https://github.com/vlrprbttst/valeriopierbattista.com-2016)) - Personal website portfolio and blog
-* [Samantha North's tech + journalism blog](http://sjnorth.github.io) ([source](https://github.com/sjnorth/sjnorth.github.io )) - Journalist moving into programming, via Jekyll  
-* [Fernando Moreira](http://nandomoreira.me/) ([source](https://github.com/nandomoreirame/nandomoreirame.github.io)) - Brazilian Front-end Developer, developing website using HTML5, CSS3 and JS.
