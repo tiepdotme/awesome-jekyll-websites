@@ -588,30 +588,3 @@
 * [history.newtheatre.org.uk](http://history.newtheatre.org.uk/) ([source](https://github.com/newtheatre/history-project/)) - Historical archive project for Nottingham's student theatre, heavy use of collections.
 * [projects.chrisvogt.me](http://projects.chrisvogt.me) ([source](https://github.com/chrisvogt/projects)) - Jekyll-powered projects directory generator with a built-in API that publishes a [JSON feed](https://projects.chrisvogt.me/api/1.0/all.json) of all projects.
 * [Friends Of Cake](http://friendsofcake.com/) ([source](https://github.com/FriendsOfCake/FriendsOfCake.github.io)) - A group of dedicated individuals working together to promote good standards in the CakePHP community and foster a team of friendly, supportive developers. Powered by Jekyll.
-* [B3Lab](http://b3lab.it/blog) ([source](https://github.com/Juleship/B3Lab-Blog)) - A blog about digital products and design. Powered by Jekyll.
-* [Abhishek Dey Das](http://abhis.ws/) ([source](https://github.com/adeydas/adeydas.github.io)) - Personal blog on technology and algorithm design. Powered by Jekyll.
-* [Edward Zhu](http://edwardzhu.me/) ([source](http://github.com/zhued/zhued.github.io)) - Edward Zhu's personal site and blog
-* [Nick Clarkson](http://clarkson.io)([source](https://github.com/netotaku/netotaku.github.io)) - UK Based Technical Director, CV and Blog
-* [MasterR.org](http://masterr.org)([source](https://github.com/gmlang/masterr)) - A community where you can receive high quality training materials on data science and the R programming language for FREE.
-* [f6k](http://f6k.github.io) ([source](https://github.com/f6k/f6k.github.io)) - Personal blog in french on topics related to my studies and own interests.
-* [Agis Anastasopoulos](http://agis.io) ([source](https://github.com/agis-/agis.io)) - Personal blog, mostly about computers.
-* [Bogdan Rădulescu](http://bogdan.nimblex.net/) ([source](https://github.com/bogdanr/bogdanr.github.io))
-* [Dong Liang](http://ddbullfrog.com/) and ([Source](https://github.com/ddbullfrog/iCard-Resume)) - Personal Resume
-* [HyG](http://gaohaoyang.github.io/) ([source](https://github.com/Gaohaoyang/gaohaoyang.github.io)) - Cool Concise High-end Blog. Designed by gaohaoyang.
-* [Nithin Bekal](http://nithinbekal.com) ([source](https://github.com/nithinbekal/nithinbekal.github.io/))
-* [webdevphoenix](http://webdevphoenix.com) ([source](https://github.com/bradwestfall/webdevphoenix)) -  A Jekyll-generated list of web developers and companies that hire the latter in Phoenix, Arizona.
-* [CHRISVOGT.me](http://www.chrisvogt.me) ([source](https://github.com/chrisvogt/chrisvogt.me)) - A web developer's blog built using Jekyll. Fork to use as a template for your own blog.
-* [kyber.kits.ee](http://kyber.kits.ee/en/) ([source](https://github.com/gynter/gynter.github.io))
-* [Joseph Rex](http://josephrex.me/) ([source](https://github.com/bl4ckdu5t/bl4ckdu5t.github.io)) - A blog with a custom minimalist design
-* [BSidesVienna](http://bsidesvienna.at/) ([source](https://github.com/BSidesVienna/bsidesvienna.github.io)) - Page about the BSidesVienna Security Conference
-* [FileHelpers Project](http://www.filehelpers.net/) ([source](https://github.com/MarcosMeli/FileHelpers/tree/gh-pages)) - FileHelpers Project Home Page
-* [Matt McCormick](http://mbmccormick.com) ([source](https://github.com/mbmccormick/mbmccormick.github.io))
-* [Blog · Diki Ananta](https://blog.dikiaap.id) ([source](https://github.com/dikiaap/dikiaap.github.io)) - A blog site powered and builded by Jekyll and Mangan Theme.
-* [Beegit's Blog](http://blog.beegit.com) ([source](https://github.com/beegit/beegit.github.io)) - A Jekyll powered blog about Markdown best practices, content strategy  and content marketing.
-* [Beegit's Help Documentation](http://help.beegit.com) ([source](https://github.com/beegit/help.beegit.com)) - A Jekyll powered help site for [Beegit's Markdown collaboration platform](https://beegit.com) where you can find tips and tutorials on using the platform.
-* [Ivangold.net](http://ivangold.net/) ([source](https://github.com/Aurif3x/aurif3x.github.io)) - A front-end developer's personal site.
-* [ulf.codes](http://ulf.codes) ([source](https://github.com/ulfschneider/ulfschneider.github.io)) Personal site for Ulf Schneider. Developer and Agile Coach.
-* [0a.io](http://0a.io) ([source](https://github.com/0a-/0a-.github.io)) Arch Here.
-* [ITIN.UA - Lawyer Social Platform](http://itin.com.ua/)([source](https://github.com/itinua/itinua.github.io)) Maybe the most interesting social platform for lawyers in Ukraine
-* [Paul Robert Lloyd](https://paulrobertlloyd.com) ([source](https://github.com/paulrobertlloyd/paulrobertlloyd.com)) - My personal website and portfolio.
-* [Péter Maróti](http://www.marotipeter.com/) ([source](https://github.com/JarJarMP/PersonalSite)) - Personal site and portfolio.
