@@ -690,24 +690,3 @@
 * [SCALABLE](http://jorgeatgu.com/blog/) ([source](https://github.com/jorgeatgu/Boira)) - A blog about SVG · CSS3 · HTML(SPANISH)
 * [Personal Development](http://jonathanpike.net) ([source](https://github.com/jonathanpike/jonathanpike.github.io)) - Personal blog about becoming a better developer.
 * [Oliver Pattison](https://olivermak.es) ([source](https://github.com/opattison/olivermakes)) – Archive of writing, photography and projects.
-* [Orange](https://talentedunicorn.github.io/orange) - A free jekyll theme for personal portfolio and blog 
-* [error code 0x12F](http://blog.kianooshnaghavi.com) ([source](https://github.com/theskn/theskn.github.io)) - Personal notes on game dev and music by Kianoosh Naghavi, in persian
-* [Sagar Gandhi](http://www.sagargandhi.com/) ([source](https://github.com/Gandhi-Sagar/Gandhi-Sagar.github.io)) - A personal website about Graphics, Vision and Machine Learning; inspired by [Tyler Cubell's](http://www.tylercubell.com/) ([Source](https://github.com/tylercubell/tylercubell.github.io)) work, though I changed many bits.
-* [Paspagon](http://paspagon.com) ([source](https://github.com/Paspagon/paspagon.github.io)) – a payment processor.
-* [Maxime Kjaer](https://kjaermaxi.me/) ([source](https://github.com/MaximeKjaer/kjaermaxi.me)) &mdash; Personal site and blog
-* [Trantor Liu](http://trantor.tw) ([source](https://github.com/trantorLiu/trantorliu.github.io)) - Personal site, blog, collection of poems. In Chinese and English. 個人網站、部落格、詩集
-* [Greg Virtucio](http://gvirtuc.io/) ([source](https://github.com/kronik3r/daktilo)) &mdash; Personal site and blog, based on Kronik3r's Daktilo theme.
-* [Mingdong's Blog](https://mdluo.github.io/) ([source](https://github.com/mdluo/mdluo.github.io)) – This is a personal blog of Mingdong on Github Pages. (Chinese, 中文).
-* [Mark Berger](http://maberger.com/) ([source](https://github.com/mark-berger/mark-berger.github.io)) &mdash; Personal site, blog, and resume
-* [Jacob Berchem](http://jacobberchem.com/) ([source](https://github.com/jakeberkuwmad/jakeberkuwmad.github.io)) &mdash; Personal design portfolio
-* [Koba Khitalishvili](http://www.kobakhit.com/) ([source](https://github.com/KobaKhit/kobakhit.github.io)) - A blog where I write about data science, math, stats, web design and grad school.
-* [Daniel Limberger](http://daniellimberger.de/en/) ([source](https://github.com/cgcostume/cgcostume.github.io)) - Portfolio optimized for researchers and those who strive for a minimal, file-based content management.
-* [Robin Stickel](http://robinstickel.com/) ([source](https://github.com/robinstickel/robinstickel.com)) - Personal Website, Blog and Portfolio
-* [Another Peak](http://anotherpeak.org/) ([source](https://github.com/abrahamdu/abrahamdu.github.io)) - Yi Du's Personal Site - Blog and Project
-* [Diney Wankhede](http://www.dineywankhede.com/) ([source](https://github.com/dineyw23/dineyw23.github.io)) - Diney's Personal Website 
-* [Daniel Knöll](http://danielknoell.de/)([source](https://github.com/Danny4927/danny4927.github.io)) - Personal Website and little Tech Blog
-* [Tyler McCraw](http://w3bshark.com/) ([source](http://github.com/TylerMcCraw/tylermccraw.github.io)) - Personal Blog on Android Development
-* [Mangan](https://mangan.dikiaap.id) ([source](https://github.com/dikiaap/mangan)) - Mangan is simple theme for Geeks.
-* [Ali Haddadkar](http://haddadkar.me) ([source](https://github.com/alihaddadkar/haddadkar.me)) - Personal Website and Blog.
-* [Bitcoin Manchester](http://www.bitcoinmanchester.org.uk/) ([source](https://github.com/bitcoinmanchester/bitcoinmanchester.github.io)) - Bitcoin / cryptocurrency meetup in Manchester, UK
-* [Jason Hee](http://jasonhee.com) ([source](https://github.com/jasonheecs/jasonheecs.github.io)) - Personal website and portfolio
