@@ -676,17 +676,3 @@
 * [Valerio Pierbattista's Portfolio Website](http://valeriopierbattista.com) ([source](https://github.com/vlrprbttst/valeriopierbattista.com-2016)) - Personal website portfolio and blog
 * [Samantha North's tech + journalism blog](http://sjnorth.github.io) ([source](https://github.com/sjnorth/sjnorth.github.io )) - Journalist moving into programming, via Jekyll  
 * [Fernando Moreira](http://nandomoreira.me/) ([source](https://github.com/nandomoreirame/nandomoreirame.github.io)) - Brazilian Front-end Developer, developing website using HTML5, CSS3 and JS.
-* [Chad Kruse](http://www.chadkruse.com) ([source](https://github.com/chadokruse/chadokruse.github.com)) – A data-driven, card-UI-based portfolio site using Isotope.js. Bonus resume template based on JSON Resume spec.
-* [Justin Cheung](http://muffinlightning.github.io) ([source](https://github.com/muffinlightning/muffinlightning.github.io)) – A personal blog written by a computer science student. Includes programming commentary, interesting side projects, and game modding.
-* [Way Lau's Personal Site](http://www.waylau.com/) ([source](https://github.com/waylau/jekyll-bootstrap-blog)) - A theme for Jekyll to build a personal blog, based on Bootstrap 3, Font Awesome and jQuery.中文博客模版
-* [The Hornery](https://fusion809.github.io) ([source](https://github.com/fusion809/fusion809.github.io)) &mdash; a personal site for Brenton Horne (fusion809) covering mostly Linux-related topics. 
-* [intercooler.js](http://intercoolerjs.org/) ([source](https://github.com/LeadDyno/intercooler-js/tree/master/www)) - A declarative AJAX framework
-* [manikrathee.com](http://manikrathee.com/) ([source](https://github.com/manikrathee/manikrathee.com/)) - Personal portfolio, resources and blog.
-* [einundleipzig.de](http://einundleipzig.de/) ([source](https://github.com/einundleipzig/einundleipzig)) - A blog about the urban development of Leipzig
-* [30dienu.lt](http://30dienu.lt/) ([source](https://github.com/dainiuxt/30dienu)) - Personal blog about personal challenges and personality growth. In Lithuanian.
-* [ritmas.eu](http://ritmas.eu/) ([source](https://github.com/dainiuxt/ritmas)) - Website of running community. In Lithuanian.
-* [Erwartungskonforme Webseiten](http://www.informatik.uni-oldenburg.de/~iug15/ew/) ([source](https://gitlab.uni-oldenburg.de/erwartungskonforme-webseiten/website)) - German project website about the accessibility of websites
-* [pasoev.github.io](http://pasoev.github.io/) ([source](https://github.com/pasoev/pasoev.github.io)) - A blog on functional programming
-* [SCALABLE](http://jorgeatgu.com/blog/) ([source](https://github.com/jorgeatgu/Boira)) - A blog about SVG · CSS3 · HTML(SPANISH)
-* [Personal Development](http://jonathanpike.net) ([source](https://github.com/jonathanpike/jonathanpike.github.io)) - Personal blog about becoming a better developer.
-* [Oliver Pattison](https://olivermak.es) ([source](https://github.com/opattison/olivermakes)) – Archive of writing, photography and projects.
