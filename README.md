@@ -582,9 +582,3 @@
 * [Bodhinyana Group](http://www.bodhinyanagroup.org.uk) ([source](https://github.com/bodhinyana-group/bodhinyana-group.github.io)) - A Buddhist meditation group meeting at Amaravati Buddhist Monastery near Hemel Hempstead, UK
 * [Varun Agrawal](http://www.varunagrawal.me/) ([source](https://github.com/varunagrawal/varunagrawal.github.io))
 * [Velocity Labs](http://velocitylabs.io/) ([source](https://github.com/velocity-labs/velocitylabs.io)) - Website and blog of a web development company specializing in Ruby on Rails and JavaScript applications.
-* [Adriano Rosa](http://adrianorosa.com) ([source](https://github.com/adrianorsouza/adrianorosa.com)) - Personal website & blog. Looks like a Wordpress but was built with jekyll.
-* [RTXI](http://rtxi.org) ([source](https://github.com/rtxi/rtxi.github.io)) - Website for RTXI, an open-source system for hard real-time, closed-loop control applications for electrophysiology.
-* [Społeczna Gra Zespołowa](http://spolecznagrazespolowa.pl) ([source](https://github.com/kooperatywa/spoleczna-gra-zespolowa)) - A website for a sociology/economy conference.
-* [history.newtheatre.org.uk](http://history.newtheatre.org.uk/) ([source](https://github.com/newtheatre/history-project/)) - Historical archive project for Nottingham's student theatre, heavy use of collections.
-* [projects.chrisvogt.me](http://projects.chrisvogt.me) ([source](https://github.com/chrisvogt/projects)) - Jekyll-powered projects directory generator with a built-in API that publishes a [JSON feed](https://projects.chrisvogt.me/api/1.0/all.json) of all projects.
-* [Friends Of Cake](http://friendsofcake.com/) ([source](https://github.com/FriendsOfCake/FriendsOfCake.github.io)) - A group of dedicated individuals working together to promote good standards in the CakePHP community and foster a team of friendly, supportive developers. Powered by Jekyll.
